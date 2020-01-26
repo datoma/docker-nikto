@@ -1,7 +1,7 @@
 # docker-nikto
 Niko Security Scanner as docker container
 
-[![Docker Automated Build](https://hub.docker.com/r/frapsoft/nikto/)
+[![Docker Automated Build](https://hub.docker.com/r/datoma/nikto/)
 
 ## Installation
 `docker pull datoma/nikto`
