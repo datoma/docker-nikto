@@ -2,6 +2,7 @@
 Niko Security Scanner as docker container
 
 [![Docker Automated Build](https://hub.docker.com/r/datoma/nikto/)]
+https://registry.hub.docker.com/v2/repositories/datoma/nikto/tags/
 
 ## Installation
 `docker pull datoma/nikto`
