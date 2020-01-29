@@ -1,5 +1,5 @@
 
-FROM alpine:edge
+FROM alpine:latest
 
 MAINTAINER Michael Hoffmann (https://github.com/datoma)
 
