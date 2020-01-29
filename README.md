@@ -1,7 +1,7 @@
 # docker-nikto
 Niko Security Scanner as docker container
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/datoma/docker-nikto)](https://hub.docker.com/r/datoma/nikto/)
+[![Docker Automated Build](https://img.shields.io/docker/automated/datoma/nikto?style=plastic)](https://hub.docker.com/r/datoma/nikto/)
 
 
 
